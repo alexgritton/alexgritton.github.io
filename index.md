@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-1. [Make MKV Batch Converter] (https://github.com/alexgritton/MakeMKVBatchConverter)
+1. https://alexgritton.github.io/MakeMKVBatchConverter
